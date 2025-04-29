@@ -22,11 +22,10 @@
 </p>
 <h2 align="center">Socials:</h2>
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ in -barisfurkanuzun-%230a66c2?labelColor=%230a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbarisfurkanuzun%2F" width='180px' height='30px'>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-barisfurkanuzun-%23000000?logo=x&link=https%3A%2F%2Fx.com%2Fbarisfurkanuzun" width='180px' height='30px'>
-
-  <img alt="Static Badge" src="https://img.shields.io/badge/-barisfurkanuzun-%23FF0069?logo=instagram&logoColor=white&logoSize=amd&labelColor=%23FF0069&link=https%3A%2F%2Fwww.instagram.com%2Fbarisfurkanuzun%2F" width='180px' height='30px'>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-brsfurkanuzun-%2300439C?logo=playstation&logoColor=black&logoSize=amd&labelColor=white" alt="PSN Badge" width='180px' height='30px' /><br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/ in -barisfurkanuzun-%230a66c2?labelColor=%230a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbarisfurkanuzun%2F"  height='30px'>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-barisfurkanuzun-%23000000?logo=x&link=https%3A%2F%2Fx.com%2Fbarisfurkanuzun"  height='30px'>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-barisfurkanuzun-%23FF0069?logo=instagram&logoColor=white&logoSize=amd&labelColor=%23FF0069&link=https%3A%2F%2Fwww.instagram.com%2Fbarisfurkanuzun%2F"  height='30px'>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-brsfurkanuzun-%2300439C?logo=playstation&logoColor=black&logoSize=amd&labelColor=white" alt="PSN Badge"  height='30px' /><br>
   <img 
     src="https://card.psnprofiles.com/2/brsfurkanuzun.png" 
     alt="PSN Card" />
